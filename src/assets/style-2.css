@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "CustomFont";
+    src: url("../assets/font-2.ttf") format("truetype");
+}
+
+body {
+    font-family: "CustomFont";
+    background-color: black;
+    color: aliceblue;
+}

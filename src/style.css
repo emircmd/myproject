@@ -1,0 +1,33 @@
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: monospace;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 30px;
+    border: 1px solid #333;
+    border-radius: 10px;
+  }
+
+  .baslik {
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 30px;
+  }
+
+  .baslaButon {
+    display: block;
+    margin: 0 auto;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .baslaButon:hover {
+    background-color: #333;
+  }
